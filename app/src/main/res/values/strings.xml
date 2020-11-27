@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DroidCafe</string>
+    <string name="sobremesas_droid">Sobremesas Droid</string>
+    <string name="imagem_do_produto">Imagem do produto</string>
+</resources>
